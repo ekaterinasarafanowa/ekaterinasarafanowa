@@ -8,4 +8,4 @@ Volgograd State Technical University,
 
 ## Contact
 - Telegram: https://t.me/ek_sarafanowa
-- Email: georgegromov.tech@gmail.com
+- Email: ek.sarafanowa@yandex.ru
